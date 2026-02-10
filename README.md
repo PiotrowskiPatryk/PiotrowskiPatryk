@@ -145,7 +145,7 @@ High-precision VR training for pharmaceutical production environments.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiotrowskiPatryk&repo=State-Machine-Lite-Unity-Package&theme=tokyonight&hide_border=true" />
 </a>
 
-> 🚧 **State Machine Lite Package** — State Machines Lite brings data-driven FSMs to Unity 6+ with a full async lifecycle, priority-based transition solving, and a built-in visual graph editor. All configuration lives in ScriptableObject assets - states, triggers, conditions, and transition rules - with runtime orchestration handled entirely by the framework. Custom types are auto-discovered through reflection, making the system easy to extend without touching editor code.
+**State Machine Lite Package** — State Machines Lite brings data-driven FSMs to Unity 6+ with a full async lifecycle, priority-based transition solving, and a built-in visual graph editor. All configuration lives in ScriptableObject assets - states, triggers, conditions, and transition rules - with runtime orchestration handled entirely by the framework. Custom types are auto-discovered through reflection, making the system easy to extend without touching editor code.
 
 ---
 
